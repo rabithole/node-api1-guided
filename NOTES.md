@@ -3,16 +3,18 @@
 * API = Application Programming Interface
 
 ### JSON = JacaScript Object Notation
+* URI = URL
 
 ### Express is like React for the back end. 
 * Express is a Node.js module. 
 * Unopinionated = Doesn't force us into a design pattern. 
 
-### Node links/NPM = Node Package Module and Express links
+### Node links/NPM = Node Package Module and Express links, HTTP methods
 * https://v8.dev/
 * https://nodejs.org/en/
 * NPM packages https://www.npmjs.com/
 * http://expressjs.com/
+* https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods
 
 ### nodemon restarts server service when changes are made. 
 
