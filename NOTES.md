@@ -1,3 +1,10 @@
+## Install Commands
+* npm i
+* npm i express
+
+## Run Commands
+* npm run server
+
 # Node.js, Express Postman.services, CRUD web API
 # Building and API
 * API = Application Programming Interface
@@ -29,8 +36,3 @@
 # My webpt11 cohort
 * Benjamin Doyle, Hysen sisco, Dustin Graham, Antoinette Jones, 
 * Steven Oakley, Delfin Mongendu, Kara Peoples, Branden Franks
-
-
-## Installed 
-* npm i
-* npm i express
