@@ -1,5 +1,6 @@
 const express = require('express'); // A path goes here when needed. 
 // This access modules installed. 
+// express should be listed as a dependency in the package.json file. 
 
 const db = require('./data/hubs-model.js');// .js is not requeired. 
 // calls local database file. 
